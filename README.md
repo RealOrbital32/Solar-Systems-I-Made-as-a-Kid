@@ -4,7 +4,9 @@
  Description for each mod:
  
  Kamika: "Solar system I made as a child."
+ 
  Star Systems: "Oh man, the madwoman forced Funny System and Kamika to have a baby!"
+ 
  STS2: "The less the better, right?"
 
 obligatory screenshots:
