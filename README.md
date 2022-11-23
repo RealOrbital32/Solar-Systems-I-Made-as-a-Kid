@@ -1,13 +1,13 @@
 # Solar Systems I Made as a Kid
  This is just a bundle of, well, look at the title.
  
- Description for each mod:
+ **Description for each mod:
  
- Kamika: "Solar system I made as a child."
+ *Kamika: "Solar system I made as a child."
  
- Star Systems: "Oh man, the madwoman forced Funny System and Kamika to have a baby!"
+ *Star Systems: "Oh man, the madwoman forced Funny System and Kamika to have a baby!"
  
- STS2: "The less the better, right?"
+ *STS2: "The less the better, right?"
 
 obligatory screenshots:
 ![O32 STS2](https://user-images.githubusercontent.com/87882655/203621832-959da6d2-7bd4-42e0-9a16-18c6bfe339fc.png)
