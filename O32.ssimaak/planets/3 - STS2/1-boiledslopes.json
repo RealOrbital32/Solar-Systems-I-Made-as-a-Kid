@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Boiled Slopes",
+	"starSystem": "O32.STS2",
+	"Base": {
+		"surfaceGravity": 9,
+		"surfaceSize": 500,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 3000,
+		"primaryBody": "Blinding Light",
+		"trueAnomaly": 57,
+		"siderealPeriod": 3
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/boiledslopes_h.png",
+		"textureMap": "planets/assets/boiledslopes.png",
+		"minHeight": 400,
+		"maxHeight": 500
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Blinding Light",
+	"starSystem": "O32.STS2",
+	"Base": {
+		"surfaceGravity": 24,
+		"surfaceSize": 1000,
+		"hasMapMarker": true,
+		"gravityFallOff": "inverseSquared",
+		"centerOfSolarSystem": true
+	},
+	"Star": {
+		"size": 1000,
+		"tint": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"solarLuminosity": 0.7,
+		"lightRadius": 30000
+	}
+}

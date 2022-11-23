@@ -1,0 +1,9 @@
+{
+  "filename": "NewHorizonsConfig.dll",
+  "author": "Orbital 32 (a.k.a cigtu)",
+  "name": "Solar Systems I Made as a Kid",
+  "uniqueName": "O32.ssimaak",
+  "version": "1.0.0",
+  "owmlVersion": "2.7.5",
+  "dependencies": [ "xen.NewHorizons" ]
+}

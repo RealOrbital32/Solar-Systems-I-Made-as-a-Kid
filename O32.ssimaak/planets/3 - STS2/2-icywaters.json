@@ -1,0 +1,57 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Icy Waters",
+	"starSystem": "O32.STS2",
+	"Base": {
+		"surfaceGravity": 7.5,
+		"surfaceSize": 300,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 5000,
+		"primaryBody": "Blinding Light",
+		"trueAnomaly": 212,
+		"siderealPeriod": 2.5
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/icywaters_h.png",
+		"textureMap": "planets/assets/icywaters.png",
+		"minHeight": 350,
+		"maxHeight": 400
+	},
+	"Atmosphere": {
+		"hasSnow": true,
+		"hasOxygen": true,
+		"size": 450,
+		"fogSize": 450,
+		"fogDensity": 0.5,
+		"atmosphereTint": {
+			"r": 65,
+			"g": 204,
+			"b": 237,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 65,
+			"g": 204,
+			"b": 237,
+			"a": 255
+		},
+		"clouds": {
+			"cloudsPrefab": "transparent",
+			"texturePath": "planets/assets/water_gas.png",
+			"innerCloudRadius": 430,
+			"outerCloudRadius": 450,
+			"rotationSpeed": 1
+		}
+	},
+	"Water": {
+		"size": 375,
+		"tint": {
+			"r": 23,
+			"g": 38,
+			"b": 184,
+			"a": 255
+		}
+	}
+}
