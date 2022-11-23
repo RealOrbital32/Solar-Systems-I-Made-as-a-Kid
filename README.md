@@ -9,7 +9,7 @@
  
  *STS2: "The less the better, right?"*
 
-obligatory screenshots:
+***obligatory screenshots:***
 ![O32 STS2](https://user-images.githubusercontent.com/87882655/203621832-959da6d2-7bd4-42e0-9a16-18c6bfe339fc.png)
 ![image](https://user-images.githubusercontent.com/87882655/198854514-c8b7ef6e-c722-4de8-8fa4-1e187243066e.png)
 ![image](https://user-images.githubusercontent.com/87882655/198854539-9172469f-ca5e-407d-acac-09585be33a56.png)
