@@ -4,7 +4,7 @@
   "starSystem": "O32.Kamika",
   "Base": {
     "surfaceGravity": 65,
-    "surfaceSize": 7500,
+    "surfaceSize": 4500,
     "hasMapMarker": true,
     "gravityFallOff": "inverseSquared",
     "centerOfSolarSystem": true
@@ -12,7 +12,7 @@
   "Orbit": { "isStatic": true },
   "Star": {
     "goSupernova": true,
-    "size": 7500,
+    "size": 4500,
     "lightRadius": 60000,
     "tint": {
       "R": 124,
@@ -34,7 +34,7 @@
     "mapMode": {
       "revealedSprite": "planets/ShipLogs/sprites/purple_sun_map_mode.png",
       "outlineSprite": "planets/ShipLogs/sprites/purple_sun_map_mode.png",
-      "scale": 7.5
+      "scale": 4.5
     }
   }
 }

@@ -2,6 +2,14 @@
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name": "Icy Waters",
 	"starSystem": "O32.STS2",
+	"Spawn": {
+		"playerSpawnPoint": {
+			"y": 401
+		},
+		"shipSpawnPoint": {
+			"y": 405
+		}
+	},
 	"Base": {
 		"surfaceGravity": 7.5,
 		"surfaceSize": 300,

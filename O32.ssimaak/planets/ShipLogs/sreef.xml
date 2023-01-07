@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>SREEF_DISCOVERY</ID>
-            <RumorName>Sreef</RumorName>
             <Text>Completely blue, orbits Uilo. Looks like water but isn't.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

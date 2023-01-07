@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>UILO_DISCOVERY</ID>
-            <RumorName>Uilo</RumorName>
             <Text>Completely covered in oil. Even the atmosphere is made of oil.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

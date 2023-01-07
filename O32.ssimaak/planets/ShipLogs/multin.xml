@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
-            <ID>MULTIN_DISCOVERY</ID>
-            <RumorName>Multin</RumorName>
-            <Text>A planet orbiting dangerously close to the sun.</Text>
-        </RumorFact>
+		<ExploreFact>
+			<ID>MULTIN_DISCOVERY</ID>
+			<Text>A planet orbiting dangerously close to the sun.</Text>
+		</ExploreFact>
     </Entry>
 </AstroObjectEntry>

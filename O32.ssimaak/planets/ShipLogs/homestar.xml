@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>HOMESTAR</ID>
-        <Name>HomeStar</Name>
+        <Name>Home Star</Name>
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>HOMESTAR_DISCOVERY</ID>
-            <RumorName>TM's Home Star</RumorName>
             <Text>The star of TM's Home Planet.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

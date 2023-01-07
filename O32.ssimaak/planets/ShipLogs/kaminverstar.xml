@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>KAMINVERSTAR</ID>
-        <Name>Kaminverstar</Name>
+        <Name>Kaminverse Star</Name>
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>KAMINVERSTAR_DISCOVERY</ID>
-            <RumorName>Kaminverstar</RumorName>
             <Text>One of many stars in the Kaminverse, but oh well, I guess this one is more important.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

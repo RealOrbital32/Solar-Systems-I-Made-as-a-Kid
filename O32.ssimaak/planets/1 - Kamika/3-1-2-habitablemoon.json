@@ -8,7 +8,7 @@
 		"hasMapMarker": true
 	},
 	"Orbit": {
-		"semiMajorAxis": 1000,
+		"semiMajorAxis": 1200,
 		"inclination": 0,
 		"trueAnomaly": 156,
 		"primaryBody": "Habitable Planet",
@@ -32,6 +32,7 @@
 		"xmlFile": "planets/ShipLogs/habmoon.xml",
 		"spriteFolder": "planets/ShipLogs/sprites",
 		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/habmoon_map_mode.png",
 			"scale": 0.1,
 			"offset": -0.65
 		}

@@ -76,6 +76,7 @@
 		"xmlFile": "planets/ShipLogs/habplanet.xml",
 		"spriteFolder": "planets/ShipLogs/sprites",
 		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/habplanet_map_mode.png",
 			"scale": 0.45,
 			"offset": 0.25
 		}

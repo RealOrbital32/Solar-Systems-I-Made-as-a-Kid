@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>HOMEPLANET</ID>
-        <Name>HomePlanet</Name>
+        <Name>Home Planet</Name>
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>HOMEPLANET_DISCOVERY</ID>
-            <RumorName>TM's Home Planet</RumorName>
-            <Text>The former home planet of an evil villain named "Tentacle Man".</Text>
-        </RumorFact>
+            <Text>The former home planet of another civilization who were almost as advanced as the Kamicians, named the Tentalicians. They had a "war", but ultimately, the Tentalicians went extinct.</Text>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

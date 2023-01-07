@@ -8,7 +8,7 @@
 		"hasMapMarker": true
 	},
 	"Orbit": {
-		"semiMajorAxis": 11000,
+		"semiMajorAxis": 8000,
 		"inclination": 0,
 		"primaryBody": "Purple Sun",
 		"isMoon": false,
@@ -33,7 +33,7 @@
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/multin_map_mode.png",
 			"scale": 0.1,
-			"offset": 2.65
+			"offset": 2
 		}
 	}
 }

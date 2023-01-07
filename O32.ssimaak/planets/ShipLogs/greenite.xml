@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>GREENITE_DISCOVERY</ID>
-            <RumorName>Greenite</RumorName>
             <Text>A green moon that somehow orbits Multin despite the gravtiy from Purple Sun.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

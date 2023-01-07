@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>KAMIC_DISCOVERY</ID>
-            <RumorName>Kamic</RumorName>
             <Text>Everything on this planet is black and white. Despite the minimal surface area, there used to be life here, and they turned into an intersteller civilization and left this system.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

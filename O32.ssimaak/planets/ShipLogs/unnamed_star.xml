@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>UNNAMED_STAR</ID>
-        <Name>Unnamed_Star</Name>
+        <Name>Unnamed Star</Name>
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>UNNAMED_STAR_DISCOVERY</ID>
-            <RumorName>Unnamed Star</RumorName>
             <Text>A star without a name.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

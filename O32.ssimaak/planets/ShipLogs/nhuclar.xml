@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>NHUCLAR_DISCOVERY</ID>
-            <RumorName>Nhuclar</RumorName>
-            <Text>Orbits Atoxic, and made out liquidated nuclear acid.</Text>
-        </RumorFact>
+            <Text>Orbits Atoxic, and made out of nuclearr waste thrown into orbit by the Kamicians upon reaching their Nuclear Age.</Text>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

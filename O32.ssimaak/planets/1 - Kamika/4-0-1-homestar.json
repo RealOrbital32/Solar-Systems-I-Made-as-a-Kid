@@ -4,7 +4,7 @@
   "starSystem": "O32.Kamika",
   "Base": {
     "surfaceGravity": 45,
-    "surfaceSize": 4000,
+    "surfaceSize": 3000,
     "hasMapMarker": true,
     "gravityFallOff": "inverseSquared"
   },
@@ -22,7 +22,7 @@
   },
   "Star": {
     "goSupernova": true,
-    "size": 4000,
+    "size": 3000,
     "lightRadius": 60000,
     "tint": {
       "R": 154,
@@ -42,7 +42,8 @@
     "xmlFile": "planets/ShipLogs/homestar.xml",
     "spriteFolder": "planets/ShipLogs/sprites",
     "mapMode": {
-      "scale": 4,
+      "revealedSprite": "planets/ShipLogs/sprites/homestar_map_mode.png",
+      "scale": 3,
       "offset": 5.25
     }
   }

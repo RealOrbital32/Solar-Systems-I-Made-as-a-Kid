@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>GILDENI_DISCOVERY</ID>
-            <RumorName>Gildeni</RumorName>
-            <Text>Moon of Uilo, and looks like it's made of gold.</Text>
-        </RumorFact>
+            <Text>Moon of Uilo, and looks like it's made of gold, but it's actually made of sulfur.</Text>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

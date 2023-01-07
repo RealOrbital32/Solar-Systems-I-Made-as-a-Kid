@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
-            <ID>OEIL_DISCOVERY</ID>
-            <RumorName>Oeil</RumorName>
-            <Text>An oily moon that orbits Kamic. No wonder they got such a technological advantage.</Text>
-        </RumorFact>
+		<ExploreFact>
+			<ID>OEIL_DISCOVERY</ID>
+			<Text>An oily moon that orbits Kamic. May have been home to life at one point, due to be made out of oil. No wonder the Kamicians got such a technological advantage.</Text>
+		</ExploreFact>
     </Entry>
 </AstroObjectEntry>

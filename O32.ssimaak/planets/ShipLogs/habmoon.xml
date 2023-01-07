@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>HABMOON</ID>
-        <Name>HabMoon</Name>
+        <Name>Habitable Moon</Name>
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>HABMOON_DISCOVERY</ID>
-            <RumorName>Habitable Moon</RumorName>
             <Text>Moon of the Habitable Planet.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

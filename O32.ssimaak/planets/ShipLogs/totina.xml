@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>TOTINA_DISCOVERY</ID>
-            <RumorName>Totina</RumorName>
-            <Text>Black and white, just like Kamic. Was once home to the Emperor and his subjects.</Text>
-        </RumorFact>
+            <Text>Black and white, just like Kamic. Was once home to a not-so-advanced civilization who were picked up by the Kamicians.</Text>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

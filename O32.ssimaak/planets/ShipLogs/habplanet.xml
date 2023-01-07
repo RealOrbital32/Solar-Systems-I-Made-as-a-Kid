@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>HABPLANET</ID>
-        <Name>HabPlanet</Name>
+        <Name>Habitable Planet</Name>
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>HABPLANET_DISCOVERY</ID>
-            <RumorName>Habitable Planet</RumorName>
             <Text>The name says it all. Somebody turned up the atmospheric pressure, though.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>HABROCK</ID>
-        <Name>HabRock</Name>
+        <Name>Habitable Rock</Name>
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>HABROCK_DISCOVERY</ID>
-            <RumorName>Habitable Rock</RumorName>
-            <Text>goofy ahh planet</Text>
-        </RumorFact>
+            <Text>Some random asteroid-shaped rock.</Text>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

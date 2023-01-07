@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>ORCEAN_DISCOVERY</ID>
-            <RumorName>Orcean</RumorName>
             <Text>Water planet. Has an orange surface, hence the name. Sounds more like the word "ocean" than it does "orange".</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

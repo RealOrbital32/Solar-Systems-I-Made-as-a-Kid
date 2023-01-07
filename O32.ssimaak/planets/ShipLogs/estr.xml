@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>ESTR_DISCOVERY</ID>
-            <RumorName>Estr</RumorName>
             <Text>Moon of Kamic, and looks like and easter egg, hence the name.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

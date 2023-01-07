@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
-            <ID>ATOXIC_DISCOVERY</ID>
-            <RumorName>Atoxic</RumorName>
-            <Text>As the name suggests, a planet full of toxic acid.</Text>
-        </RumorFact>
+		<ExploreFact>
+            <ID>ATOXIC_DISCOVERY</ID>>
+            <Text>As the name suggests, a planet full of toxic nuclear acid.</Text>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

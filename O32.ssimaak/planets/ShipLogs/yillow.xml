@@ -7,10 +7,9 @@
 
         <Curiosity>Kamika</Curiosity>
 
-        <RumorFact>
+        <ExploreFact>
             <ID>YILLOW_DISCOVERY</ID>
-            <RumorName>Yillow</RumorName>
             <Text>It's just "yellow" but they changed the second letter. Outstanding move.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>
